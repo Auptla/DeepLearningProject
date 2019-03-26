@@ -11,3 +11,10 @@ https://github.com/NVlabs/stylegan
 
 GauGAN:
 https://github.com/NVlabs/SPADE
+
+# Pytorch版本的
+
+https://github.com/rosinality/style-based-gan-pytorch
+
+https://github.com/lernapparat/lernapparat
+
